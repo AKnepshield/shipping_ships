@@ -55,4 +55,5 @@ INSERT INTO `Ship` VALUES (null, "Becker", 5);
 INSERT INTO `Ship` VALUES (null, "Dickens", 6);
 INSERT INTO `Ship` VALUES (null, "Kunde", 6);
 INSERT INTO `Ship` VALUES (null, "Hermiston", 5);
+
 -- End block

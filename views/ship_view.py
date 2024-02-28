@@ -83,7 +83,7 @@ def list_ships(url):
                 SELECT
                     s.id,
                     s.name,
-                    s.haulerId
+                    s.hauler_id
                 FROM Ship s
                 """
             )
